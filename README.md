@@ -1,7 +1,7 @@
 <h1 align="center">Hola 👋, I'm Saswat Samal !!</h1>
 <h3 align="center">Creating solutions .</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=saswatsam786&label=Profile%20views&color=0e75b6&style=flat" alt="saswatsam786" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=saswatsam786&label=Profile%20views&color=0e75b6&style=flat" alt="saswatsam786" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=saswatsam786" alt="saswatsam786" /></a> </p>
 
@@ -23,7 +23,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://instagram.com/saswat-samal-1b586018a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="saswat-samal-1b586018a" height="30" width="40" /></a>
+<a href="https://instagram.com/saswat_sam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="saswat-samal-1b586018a" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/saswat_sam786" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="saswat_sam786" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/saswat_sam786" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="saswat_sam786" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/user1583h" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="user1583h" height="30" width="40" /></a>
