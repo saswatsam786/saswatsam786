@@ -10,7 +10,7 @@
 
 - 🔭 I’m currently working on **Social Site**
 
-- 🌱 I’m currently learning **Reactjs, Redeux, nodejs and php**
+- 🌱 I’m currently learning **Reactjs, Redux, nodejs and php**
 
 - 👯 I’m looking to collaborate on **Reactjs and Nodejs**
 
