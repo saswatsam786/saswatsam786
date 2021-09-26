@@ -8,7 +8,7 @@
 
 <h3><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;About me ....</h3>
 
-- 🔭 I’m currently working on [<h2>HarbourX Project</h2>](https://github.com/saswatsam786/Hackathon-Project)
+- 🔭 I’m currently working on [<strong>HarbourX Project</strong>](https://github.com/saswatsam786/Hackathon-Project)
 
 - 🌱 I’m currently learning **Reactjs, Redux, nodejs and php**
 
