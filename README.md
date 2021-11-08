@@ -1,6 +1,6 @@
 <h1 align="center">Hola <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Saswat Samal !!</h1>
 <p align="center"><img src="https://github.com/halfrost/halfrost/blob/master/icons/header_.png"></p>
-<h3 align="center">Creating solutions.....</h3>
+<h3 align="center">Development and Problem Solving</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=saswatsam786&label=Profile%20views&color=0e75b6&style=flat" alt="saswatsam786" /> </p>
 
