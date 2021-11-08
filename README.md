@@ -8,9 +8,9 @@
 
 <h3><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;About me ....</h3>
 
-- 🔭 I’m currently working on [<strong>HarbourX Project</strong>](https://github.com/saswatsam786/Hackathon-Project)
+- 🔭 I’m currently working on [<strong>MovieNix-A streaming app...</strong>](https://github.com/saswatsam786/movieNix)
 
-- 🌱 I’m currently learning **Reactjs, Redux, nodejs and php**
+- 🌱 I’m currently learning **Reactjs, Redux, nodejs and firebase**
 
 - 👯 I’m looking to collaborate on **Reactjs and Nodejs**
 
