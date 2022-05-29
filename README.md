@@ -19,9 +19,9 @@
 - 💬 Ask me about **C++ , c , java , javascript**
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 
-- 📫 How to reach me 
+- 📫 How to reach me **saswat.sam786@gmail.com**
 
-- 📄 Know about my experiences [resume link]
+- 📄 Know about my experiences [resume link](https://drive.google.com/file/d/1UZ1tqZ1H82l28OXw3IfKozNdqW6ITpr0/view?usp=sharing)
 
 - ⚡ Fun fact **My comments can lie but my code won't😜😜😂**
 
