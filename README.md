@@ -1,4 +1,4 @@
-<h1 align="center">Hola <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Saswat Samal !!</h1>
+<h1 align="center">Hola <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30">, I'm Saswat Samal !!</h1>
 <p align="center"><img src="https://github.com/halfrost/halfrost/blob/master/icons/header_.png"></p>
 <h3 align="center">Development and Problem Solving</h3>
 
@@ -6,7 +6,7 @@
 
 <img align="right" width=200px height=200px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
 
-<h3><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;About me ....</h3>
+<h3><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30">&nbsp;About me ....</h3>
 
 - 🔭 I’m currently working on [<strong>GateKeeper-One of a kind attend...</strong>](https://github.com/saswatsam786/gateKeeper)
 
@@ -25,7 +25,7 @@
 
 - ⚡ Fun fact **My comments can lie but my code won't😜😜😂**
 
-<h3 align="left"><img src="https://media1.giphy.com/media/vxWq52dFPthnKjRbLY/giphy.gif?cid=ecf05e473u9yjexwj6e1vzzgdufk7t78pvskt163i1zv02f1&rid=giphy.gif&ct=g" width="50px">&nbsp;Connect with me:</h3>
+<h3 align="left"><img src="https://media1.giphy.com/media/vxWq52dFPthnKjRbLY/giphy.gif?cid=ecf05e473u9yjexwj6e1vzzgdufk7t78pvskt163i1zv02f1&rid=giphy.gif&ct=g" width="50">&nbsp;Connect with me:</h3>
 <p align="left">
 <a href="https://instagram.com/saswat_sam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="saswat-samal-1b586018a" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/saswat_sam786" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="saswat_sam786" height="30" width="40" /></a>
