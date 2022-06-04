@@ -12,7 +12,7 @@
 
 - 🌱 I’m currently learning **Reactjs, Redux, nodejs and solidity**
 
-- 👯 I’m looking to collaborate on **Reactjs and Nodejs**
+- 👯 I’m looking to collaborate on **Reactjs, nodejs and solidity**
 
 - 🤝 I’m looking for help with **Reactsjs and Nodejs**
 
