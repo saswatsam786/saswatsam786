@@ -10,7 +10,7 @@
 
 - 🔭 I’m currently working on [<strong>GateKeeper-One of a kind attend...</strong>](https://github.com/saswatsam786/gateKeeper)
 
-- 🌱 I’m currently learning **Reactjs, Redux, nodejs and solidity**
+- 🌱 I’m currently learning **Reactjs, Redux, nodejs and aws**
 
 - 👯 I’m looking to collaborate on **Reactjs, nodejs, aws, docker and Kubernetes**
 
