@@ -47,3 +47,6 @@
 </p>
 
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=saswatsam786&show_icons=true&theme=gotham" alt="saswatsam786" /></p>
+
+## Watch my contributions get eaten by a snake 🐍
+![snake gif](https://github.com/saswatsam786/Actions/blob/output/github-contribution-grid-snake.svg)
