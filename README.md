@@ -8,7 +8,7 @@
 
 <h3><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30">&nbsp;About me ....</h3>
 
-- 🔭 I’m currently working on [<strong>GateKeeper-One of a kind attend...</strong>](https://github.com/saswatsam786/gateKeeper)
+- 🔭 I’m currently working on [<strong>Twilo - A Social Network kind a app...</strong>](https://github.com/saswatsam786/twilo)
 
 - 🌱 I’m currently learning **Go, docker, Redux, nodejs and aws**
 
