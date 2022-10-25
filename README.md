@@ -21,7 +21,7 @@
 
 - 📫 How to reach me **saswat.sam786@gmail.com**
 
-- 📄 Know about my experiences [resume link](https://drive.google.com/file/d/1UZ1tqZ1H82l28OXw3IfKozNdqW6ITpr0/view?usp=sharing)
+- 📄 Know about my experiences [resume link](https://drive.google.com/file/d/1hcg60KqwyXEZT8eU0x7rrYEkEJ4cdWEz/view?usp=sharing)
 
 - ⚡ Fun fact **My comments can lie but my code won't😜😜😂**
 
