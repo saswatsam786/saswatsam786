@@ -31,7 +31,7 @@ src="https://img.shields.io/twitter/follow/SaswatTwts?logo=twitter&style=for-the
 <h3 align="left"><img src="https://media1.giphy.com/media/vxWq52dFPthnKjRbLY/giphy.gif?cid=ecf05e473u9yjexwj6e1vzzgdufk7t78pvskt163i1zv02f1&rid=giphy.gif&ct=g" width="50">Connect with me:</h3>
 <p align="left">
   <a href="https://www.twitter.com/SaswatTwts" target="_blank" rel="noreferrer"><img align="center" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="40" height="30" /></a>
-  <a href="https://www.linkedin.com/in/saswat_sam" target="_blank" rel="noreferrer"><img align="center" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="40" height="30" /></a>
+  <a href="https://www.linkedin.com/in/saswatsam/" target="_blank" rel="noreferrer"><img align="center" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="40" height="30" /></a>
 <a href="https://instagram.com/saswat_sam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="saswat-samal-1b586018a" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/saswat_sam786" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="saswat_sam786" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/saswat_sam786" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="saswat_sam786" height="30" width="40" /></a>
