@@ -11,7 +11,7 @@ src="https://img.shields.io/twitter/follow/SaswatTwts?logo=twitter&style=for-the
 
 <h3><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30">&nbsp;About me ....</h3>
 
-- 🔭 I’m currently working on [<strong>Mojo - A Social Network kind a app...</strong>](https://github.com/saswatsam786/mojo)
+- 🔭 I’m currently working on [<strong>Food Ordering NodeJS API</strong>](https://github.com/saswatsam786/NodeJS-Monolithic)
 
 - 🌱 I’m currently learning **Go, docker, Redux, nodejs and aws**
 
