@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="414" height="232" viewBox="0 0 414 232" fill="none">
+<style>
+.sans { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Inter, 'Helvetica Neue', Helvetica, Arial, sans-serif; }
+.mono { font-family: ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace; }
+@media (prefers-reduced-motion: reduce) { * { animation: none !important; } }
+.box { animation: bob 3.4s ease-in-out infinite; }@keyframes bob { 0%, 100% { transform: translateY(0); } 50% { transform: translateY(-4px); } }</style>
+<defs><radialGradient id="glow" cx="85%" cy="20%" r="60%"><stop offset="0" stop-color="#8B6CFF" stop-opacity=".22"/><stop offset="1" stop-color="#8B6CFF" stop-opacity="0"/></radialGradient></defs>
+<rect x=".5" y=".5" width="413" height="231" rx="16" fill="#10141C" stroke="#242B37"/>
+<rect x=".5" y=".5" width="413" height="231" rx="16" fill="url(#glow)"/>
+<g class="box" style="animation-delay:-0.0s"><rect x="304" y="86" width="40" height="30" rx="4" fill="#8B6CFF" fill-opacity=".16" stroke="#8B6CFF"/><line x1="314" y1="92" x2="314" y2="110" stroke="#8B6CFF" stroke-opacity=".7"/><line x1="324" y1="92" x2="324" y2="110" stroke="#8B6CFF" stroke-opacity=".7"/><line x1="334" y1="92" x2="334" y2="110" stroke="#8B6CFF" stroke-opacity=".7"/></g><g class="box" style="animation-delay:-0.7s"><rect x="350" y="86" width="40" height="30" rx="4" fill="#2DD4EE" fill-opacity=".16" stroke="#2DD4EE"/><line x1="360" y1="92" x2="360" y2="110" stroke="#2DD4EE" stroke-opacity=".7"/><line x1="370" y1="92" x2="370" y2="110" stroke="#2DD4EE" stroke-opacity=".7"/><line x1="380" y1="92" x2="380" y2="110" stroke="#2DD4EE" stroke-opacity=".7"/></g><g class="box" style="animation-delay:-1.4s"><rect x="327" y="52" width="40" height="30" rx="4" fill="#F472B6" fill-opacity=".16" stroke="#F472B6"/><line x1="337" y1="58" x2="337" y2="76" stroke="#F472B6" stroke-opacity=".7"/><line x1="347" y1="58" x2="347" y2="76" stroke="#F472B6" stroke-opacity=".7"/><line x1="357" y1="58" x2="357" y2="76" stroke="#F472B6" stroke-opacity=".7"/></g>
+<text x="24" y="38" class="mono" font-size="10.5" font-weight="400" fill="#8B949E" text-anchor="start" letter-spacing="1.6" >GO · DOCKER</text>
+<text x="24" y="70" class="sans" font-size="22" font-weight="700" fill="#E6EDF3" text-anchor="start" letter-spacing="-0.4" >Vessl</text>
+<text x="24" y="104" class="sans" font-size="13.5" font-weight="400" fill="#C2CAD3" text-anchor="start" letter-spacing="0" >Docker from one fast CLI: containers,</text>
+<text x="24" y="124" class="sans" font-size="13.5" font-weight="400" fill="#C2CAD3" text-anchor="start" letter-spacing="0" >images, live stats, logs and exec.</text>
+<text x="24" y="144" class="sans" font-size="13.5" font-weight="400" fill="#C2CAD3" text-anchor="start" letter-spacing="0" >Built with Go and Cobra, on Homebrew.</text>
+<rect x="24.0" y="182" width="33.4" height="26" rx="13.0" fill="#10141C" stroke="#242B37"/><text x="34.0" y="198.96" class="mono" font-size="11" font-weight="400" fill="#C2CAD3" text-anchor="start" letter-spacing="0" >Go</text>
+<rect x="65.4" y="182" width="60.3" height="26" rx="13.0" fill="#10141C" stroke="#242B37"/><text x="75.4" y="198.96" class="mono" font-size="11" font-weight="400" fill="#C2CAD3" text-anchor="start" letter-spacing="0" >Docker</text>
+<rect x="133.7" y="182" width="53.5" height="26" rx="13.0" fill="#10141C" stroke="#242B37"/><text x="143.7" y="198.96" class="mono" font-size="11" font-weight="400" fill="#C2CAD3" text-anchor="start" letter-spacing="0" >Cobra</text>
+<rect x="195.2" y="182" width="73.7" height="26" rx="13.0" fill="#10141C" stroke="#242B37"/><text x="205.2" y="198.96" class="mono" font-size="11" font-weight="400" fill="#C2CAD3" text-anchor="start" letter-spacing="0" >Homebrew</text>
+</svg>

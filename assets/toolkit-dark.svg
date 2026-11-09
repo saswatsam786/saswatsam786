@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="840" height="219" viewBox="0 0 840 219" fill="none">
+<style>
+.sans { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Inter, 'Helvetica Neue', Helvetica, Arial, sans-serif; }
+.mono { font-family: ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace; }
+@media (prefers-reduced-motion: reduce) { * { animation: none !important; } }
+</style>
+<defs></defs>
+<text x="2" y="18" class="mono" font-size="11" font-weight="400" fill="#8B949E" text-anchor="start" letter-spacing="1.6" >LANGUAGES</text>
+<rect x="140.0" y="0" width="64.1" height="28" rx="14.0" fill="#10141C" stroke="#242B37"/><text x="151.0" y="18.14" class="mono" font-size="11.5" font-weight="400" fill="#C2CAD3" text-anchor="start" letter-spacing="0" >Python</text>
+<rect x="211.1" y="0" width="36.0" height="28" rx="14.0" fill="#10141C" stroke="#242B37"/><text x="222.1" y="18.14" class="mono" font-size="11.5" font-weight="400" fill="#C2CAD3" text-anchor="start" letter-spacing="0" >Go</text>
+<rect x="254.1" y="0" width="92.1" height="28" rx="14.0" fill="#10141C" stroke="#242B37"/><text x="265.1" y="18.14" class="mono" font-size="11.5" font-weight="400" fill="#C2CAD3" text-anchor="start" letter-spacing="0" >TypeScript</text>
+<rect x="353.3" y="0" width="50.1" height="28" rx="14.0" fill="#10141C" stroke="#242B37"/><text x="364.3" y="18.14" class="mono" font-size="11.5" font-weight="400" fill="#C2CAD3" text-anchor="start" letter-spacing="0" >Rust</text>
+<rect x="410.3" y="0" width="43.0" height="28" rx="14.0" fill="#10141C" stroke="#242B37"/><text x="421.3" y="18.14" class="mono" font-size="11.5" font-weight="400" fill="#C2CAD3" text-anchor="start" letter-spacing="0" >SQL</text>
+<rect x="460.4" y="0" width="50.1" height="28" rx="14.0" fill="#10141C" stroke="#242B37"/><text x="471.4" y="18.14" class="mono" font-size="11.5" font-weight="400" fill="#C2CAD3" text-anchor="start" letter-spacing="0" >Bash</text>
+<rect x="517.4" y="0" width="43.0" height="28" rx="14.0" fill="#10141C" stroke="#242B37"/><text x="528.4" y="18.14" class="mono" font-size="11.5" font-weight="400" fill="#C2CAD3" text-anchor="start" letter-spacing="0" >C++</text>
+<text x="2" y="64" class="mono" font-size="11" font-weight="400" fill="#8B949E" text-anchor="start" letter-spacing="1.6" >AI</text>
+<rect x="140.0" y="46" width="92.1" height="28" rx="14.0" fill="#10141C" stroke="#8B6CFF"/><text x="151.0" y="64.14" class="mono" font-size="11.5" font-weight="400" fill="#8B6CFF" text-anchor="start" letter-spacing="0" >LLM agents</text>
+<rect x="239.1" y="46" width="106.2" height="28" rx="14.0" fill="#10141C" stroke="#8B6CFF"/><text x="250.1" y="64.14" class="mono" font-size="11.5" font-weight="400" fill="#8B6CFF" text-anchor="start" letter-spacing="0" >Tool calling</text>
+<rect x="352.3" y="46" width="43.0" height="28" rx="14.0" fill="#10141C" stroke="#8B6CFF"/><text x="363.3" y="64.14" class="mono" font-size="11.5" font-weight="400" fill="#8B6CFF" text-anchor="start" letter-spacing="0" >MCP</text>
+<rect x="402.4" y="46" width="43.0" height="28" rx="14.0" fill="#10141C" stroke="#8B6CFF"/><text x="413.4" y="64.14" class="mono" font-size="11.5" font-weight="400" fill="#8B6CFF" text-anchor="start" letter-spacing="0" >RAG</text>
+<rect x="452.4" y="46" width="78.1" height="28" rx="14.0" fill="#10141C" stroke="#8B6CFF"/><text x="463.4" y="64.14" class="mono" font-size="11.5" font-weight="400" fill="#8B6CFF" text-anchor="start" letter-spacing="0" >pgvector</text>
+<rect x="537.5" y="46" width="120.2" height="28" rx="14.0" fill="#10141C" stroke="#8B6CFF"/><text x="548.5" y="64.14" class="mono" font-size="11.5" font-weight="400" fill="#8B6CFF" text-anchor="start" letter-spacing="0" >Prompt caching</text>
+<rect x="664.8" y="46" width="64.1" height="28" rx="14.0" fill="#10141C" stroke="#8B6CFF"/><text x="675.8" y="64.14" class="mono" font-size="11.5" font-weight="400" fill="#8B6CFF" text-anchor="start" letter-spacing="0" >Claude</text>
+<rect x="735.8" y="46" width="64.1" height="28" rx="14.0" fill="#10141C" stroke="#8B6CFF"/><text x="746.8" y="64.14" class="mono" font-size="11.5" font-weight="400" fill="#8B6CFF" text-anchor="start" letter-spacing="0" >OpenAI</text>
+<text x="2" y="110" class="mono" font-size="11" font-weight="400" fill="#8B949E" text-anchor="start" letter-spacing="1.6" >BACKEND</text>
+<rect x="140.0" y="92" width="71.1" height="28" rx="14.0" fill="#10141C" stroke="#242B37"/><text x="151.0" y="110.14" class="mono" font-size="11.5" font-weight="400" fill="#C2CAD3" text-anchor="start" letter-spacing="0" >FastAPI</text>
+<rect x="218.1" y="92" width="64.1" height="28" rx="14.0" fill="#10141C" stroke="#242B37"/><text x="229.1" y="110.14" class="mono" font-size="11.5" font-weight="400" fill="#C2CAD3" text-anchor="start" letter-spacing="0" >Celery</text>
+<rect x="289.2" y="92" width="92.1" height="28" rx="14.0" fill="#10141C" stroke="#242B37"/><text x="300.2" y="110.14" class="mono" font-size="11.5" font-weight="400" fill="#C2CAD3" text-anchor="start" letter-spacing="0" >SQLAlchemy</text>
+<rect x="388.3" y="92" width="71.1" height="28" rx="14.0" fill="#10141C" stroke="#242B37"/><text x="399.3" y="110.14" class="mono" font-size="11.5" font-weight="400" fill="#C2CAD3" text-anchor="start" letter-spacing="0" >Node.js</text>
+<rect x="466.4" y="92" width="78.1" height="28" rx="14.0" fill="#10141C" stroke="#242B37"/><text x="477.4" y="110.14" class="mono" font-size="11.5" font-weight="400" fill="#C2CAD3" text-anchor="start" letter-spacing="0" >Temporal</text>
+<rect x="551.6" y="92" width="92.1" height="28" rx="14.0" fill="#10141C" stroke="#242B37"/><text x="562.6" y="110.14" class="mono" font-size="11.5" font-weight="400" fill="#C2CAD3" text-anchor="start" letter-spacing="0" >PostgreSQL</text>
+<rect x="650.7" y="92" width="57.1" height="28" rx="14.0" fill="#10141C" stroke="#242B37"/><text x="661.7" y="110.14" class="mono" font-size="11.5" font-weight="400" fill="#C2CAD3" text-anchor="start" letter-spacing="0" >Redis</text>
+<rect x="714.8" y="92" width="71.1" height="28" rx="14.0" fill="#10141C" stroke="#242B37"/><text x="725.8" y="110.14" class="mono" font-size="11.5" font-weight="400" fill="#C2CAD3" text-anchor="start" letter-spacing="0" >MongoDB</text>
+<text x="2" y="156" class="mono" font-size="11" font-weight="400" fill="#8B949E" text-anchor="start" letter-spacing="1.6" >CLOUD &amp; OPS</text>
+<rect x="140.0" y="138" width="274.5" height="28" rx="14.0" fill="#10141C" stroke="#242B37"/><text x="151.0" y="156.14" class="mono" font-size="11.5" font-weight="400" fill="#C2CAD3" text-anchor="start" letter-spacing="0" >AWS: ECS, RDS, Kinesis, Glue, Athena</text>
+<rect x="421.5" y="138" width="57.1" height="28" rx="14.0" fill="#10141C" stroke="#242B37"/><text x="432.5" y="156.14" class="mono" font-size="11.5" font-weight="400" fill="#C2CAD3" text-anchor="start" letter-spacing="0" >Azure</text>
+<rect x="485.6" y="138" width="64.1" height="28" rx="14.0" fill="#10141C" stroke="#242B37"/><text x="496.6" y="156.14" class="mono" font-size="11.5" font-weight="400" fill="#C2CAD3" text-anchor="start" letter-spacing="0" >Docker</text>
+<rect x="556.7" y="138" width="120.2" height="28" rx="14.0" fill="#10141C" stroke="#242B37"/><text x="567.7" y="156.14" class="mono" font-size="11.5" font-weight="400" fill="#C2CAD3" text-anchor="start" letter-spacing="0" >GitHub Actions</text>
+<rect x="683.9" y="138" width="92.1" height="28" rx="14.0" fill="#10141C" stroke="#242B37"/><text x="694.9" y="156.14" class="mono" font-size="11.5" font-weight="400" fill="#C2CAD3" text-anchor="start" letter-spacing="0" >Prometheus</text>
+<rect x="140.0" y="173" width="71.1" height="28" rx="14.0" fill="#10141C" stroke="#242B37"/><text x="151.0" y="191.14" class="mono" font-size="11.5" font-weight="400" fill="#C2CAD3" text-anchor="start" letter-spacing="0" >Grafana</text>
+<rect x="218.1" y="173" width="113.2" height="28" rx="14.0" fill="#10141C" stroke="#242B37"/><text x="229.1" y="191.14" class="mono" font-size="11.5" font-weight="400" fill="#C2CAD3" text-anchor="start" letter-spacing="0" >OpenTelemetry</text>
+<rect x="338.3" y="173" width="57.1" height="28" rx="14.0" fill="#10141C" stroke="#242B37"/><text x="349.3" y="191.14" class="mono" font-size="11.5" font-weight="400" fill="#C2CAD3" text-anchor="start" letter-spacing="0" >Linux</text>
+</svg>

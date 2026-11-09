@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="840" height="146" viewBox="0 0 840 146" fill="none">
+<style>
+.sans { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Inter, 'Helvetica Neue', Helvetica, Arial, sans-serif; }
+.mono { font-family: ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace; }
+@media (prefers-reduced-motion: reduce) { * { animation: none !important; } }
+</style>
+<defs><linearGradient id="num" x1="0" x2="1"><stop offset="0" stop-color="#6A48F5"/><stop offset="1" stop-color="#0891B2"/></linearGradient></defs>
+<rect x="0.5" y=".5" width="200.0" height="145" rx="14" fill="#F6F8FA" stroke="#D8DEE4"/>
+<text x="20.0" y="32" class="mono" font-size="10.5" font-weight="400" fill="#59636E" text-anchor="start" letter-spacing="1.6" >DATABASE</text>
+<text x="19.0" y="76" class="sans" font-size="34" font-weight="700" fill="url(#num)" text-anchor="start" letter-spacing="-0.8" >1,500×</text>
+<text x="20.0" y="106" class="sans" font-size="12.5" font-weight="400" fill="#59636E" text-anchor="start" letter-spacing="0" >faster query: 30 s → 20 ms</text>
+<text x="20.0" y="124" class="sans" font-size="12.5" font-weight="400" fill="#59636E" text-anchor="start" letter-spacing="0" >(was 23% of prod DB time)</text>
+<rect x="213.5" y=".5" width="200.0" height="145" rx="14" fill="#F6F8FA" stroke="#D8DEE4"/>
+<text x="233.0" y="32" class="mono" font-size="10.5" font-weight="400" fill="#59636E" text-anchor="start" letter-spacing="1.6" >LATENCY</text>
+<text x="232.0" y="76" class="sans" font-size="34" font-weight="700" fill="url(#num)" text-anchor="start" letter-spacing="-0.8" >−2.4 s</text>
+<text x="233.0" y="106" class="sans" font-size="12.5" font-weight="400" fill="#59636E" text-anchor="start" letter-spacing="0" >removed from every</text>
+<text x="233.0" y="124" class="sans" font-size="12.5" font-weight="400" fill="#59636E" text-anchor="start" letter-spacing="0" >voice command</text>
+<rect x="426.5" y=".5" width="200.0" height="145" rx="14" fill="#F6F8FA" stroke="#D8DEE4"/>
+<text x="446.0" y="32" class="mono" font-size="10.5" font-weight="400" fill="#59636E" text-anchor="start" letter-spacing="1.6" >LLM COST</text>
+<text x="445.0" y="76" class="sans" font-size="34" font-weight="700" fill="url(#num)" text-anchor="start" letter-spacing="-0.8" >~95%</text>
+<text x="446.0" y="106" class="sans" font-size="12.5" font-weight="400" fill="#59636E" text-anchor="start" letter-spacing="0" >of prompt tokens hit</text>
+<text x="446.0" y="124" class="sans" font-size="12.5" font-weight="400" fill="#59636E" text-anchor="start" letter-spacing="0" >the prompt cache</text>
+<rect x="639.5" y=".5" width="200.0" height="145" rx="14" fill="#F6F8FA" stroke="#D8DEE4"/>
+<text x="659.0" y="32" class="mono" font-size="10.5" font-weight="400" fill="#59636E" text-anchor="start" letter-spacing="1.6" >AGENT</text>
+<text x="658.0" y="76" class="sans" font-size="34" font-weight="700" fill="url(#num)" text-anchor="start" letter-spacing="-0.8" >20+</text>
+<text x="659.0" y="106" class="sans" font-size="12.5" font-weight="400" fill="#59636E" text-anchor="start" letter-spacing="0" >tools the voice agent</text>
+<text x="659.0" y="124" class="sans" font-size="12.5" font-weight="400" fill="#59636E" text-anchor="start" letter-spacing="0" >calls, plus MCP</text>
+</svg>

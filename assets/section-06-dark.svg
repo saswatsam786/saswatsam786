@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="840" height="36" viewBox="0 0 840 36" fill="none">
+<style>
+.sans { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Inter, 'Helvetica Neue', Helvetica, Arial, sans-serif; }
+.mono { font-family: ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace; }
+@media (prefers-reduced-motion: reduce) { * { animation: none !important; } }
+</style>
+<defs></defs>
+<text x="2" y="25" class="mono" font-size="12" letter-spacing="2.4"><tspan fill="#8B6CFF" font-weight="700">06</tspan><tspan fill="#8B949E">  RECOGNITION</tspan></text>
+<line x1="161.8" y1="21" x2="840" y2="21" stroke="#242B37"/>
+</svg>

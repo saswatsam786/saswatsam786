@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="414" height="232" viewBox="0 0 414 232" fill="none">
+<style>
+.sans { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Inter, 'Helvetica Neue', Helvetica, Arial, sans-serif; }
+.mono { font-family: ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace; }
+@media (prefers-reduced-motion: reduce) { * { animation: none !important; } }
+.ink { stroke-dasharray: 60; animation: ink 4.5s ease-in-out infinite; }@keyframes ink { 0% { stroke-dashoffset: 60; } 40%, 85% { stroke-dashoffset: 0; } 100% { stroke-dashoffset: 0; opacity: 0; } }.spark { transform-box: fill-box; transform-origin: center; animation: tw 2.6s ease-in-out infinite; }@keyframes tw { 0%, 100% { transform: scale(.6); opacity: .4; } 50% { transform: scale(1); opacity: 1; } }</style>
+<defs><radialGradient id="glow" cx="85%" cy="20%" r="60%"><stop offset="0" stop-color="#8B6CFF" stop-opacity=".22"/><stop offset="1" stop-color="#8B6CFF" stop-opacity="0"/></radialGradient></defs>
+<rect x=".5" y=".5" width="413" height="231" rx="16" fill="#10141C" stroke="#242B37"/>
+<rect x=".5" y=".5" width="413" height="231" rx="16" fill="url(#glow)"/>
+<g transform="translate(6 -10)"><path d="M300 52c18-8 34-8 48 0v66c-14-8-30-8-48 0z" stroke="#8B949E" stroke-width="1.6"/><path d="M396 52c-18-8-34-8-48 0v66c14-8 30-8 48 0z" stroke="#8B949E" stroke-width="1.6"/><path class="ink" d="M356 70 q5 -5 10 0 t10 0 t10 0" stroke="#8B6CFF" stroke-width="1.8" stroke-linecap="round" style="animation-delay:0.0s"/><path class="ink" d="M356 84 q5 -5 10 0 t10 0 t10 0" stroke="#8B6CFF" stroke-width="1.8" stroke-linecap="round" style="animation-delay:0.4s"/><path class="ink" d="M356 98 q5 -5 10 0 t10 0 t10 0" stroke="#8B6CFF" stroke-width="1.8" stroke-linecap="round" style="animation-delay:0.8s"/><path class="spark" d="M392 36l3 7 7 3-7 3-3 7-3-7-7-3 7-3z" fill="#F472B6"/></g>
+<text x="24" y="38" class="mono" font-size="10.5" font-weight="400" fill="#8B949E" text-anchor="start" letter-spacing="1.6" >PYTHON · RUST · CLAUDE</text>
+<text x="24" y="70" class="sans" font-size="22" font-weight="700" fill="#E6EDF3" text-anchor="start" letter-spacing="-0.4" >Enchanted Diary</text>
+<text x="24" y="104" class="sans" font-size="13.5" font-weight="400" fill="#C2CAD3" text-anchor="start" letter-spacing="0" >A handwritten diary on an e-ink</text>
+<text x="24" y="124" class="sans" font-size="13.5" font-weight="400" fill="#C2CAD3" text-anchor="start" letter-spacing="0" >tablet, backed by Claude over an SSE</text>
+<text x="24" y="144" class="sans" font-size="13.5" font-weight="400" fill="#C2CAD3" text-anchor="start" letter-spacing="0" >API, with a Spotify player in Rust.</text>
+<rect x="24.0" y="182" width="60.3" height="26" rx="13.0" fill="#10141C" stroke="#242B37"/><text x="34.0" y="198.96" class="mono" font-size="11" font-weight="400" fill="#C2CAD3" text-anchor="start" letter-spacing="0" >Python</text>
+<rect x="92.3" y="182" width="46.8" height="26" rx="13.0" fill="#10141C" stroke="#242B37"/><text x="102.3" y="198.96" class="mono" font-size="11" font-weight="400" fill="#C2CAD3" text-anchor="start" letter-spacing="0" >Rust</text>
+<rect x="147.1" y="182" width="60.3" height="26" rx="13.0" fill="#10141C" stroke="#242B37"/><text x="157.1" y="198.96" class="mono" font-size="11" font-weight="400" fill="#C2CAD3" text-anchor="start" letter-spacing="0" >Claude</text>
+<rect x="215.4" y="182" width="40.1" height="26" rx="13.0" fill="#10141C" stroke="#242B37"/><text x="225.4" y="198.96" class="mono" font-size="11" font-weight="400" fill="#C2CAD3" text-anchor="start" letter-spacing="0" >SSH</text>
+</svg>
