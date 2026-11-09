@@ -149,7 +149,7 @@ def hero(t):
     body.append(text(56, 226, "infrastructure that hold up in production.", 20, t["soft"]))
     x = 56
     for label, dot in (
-        ("Open to remote roles worldwide", t["open"]),
+        ("Open to collaborations", t["open"]),
         ("Now · Aina, AI voice agent", None),
         ("OSS · Lima · Jaeger · Dynamo", None),
     ):

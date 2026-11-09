@@ -1,6 +1,6 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/saswatsam786/saswatsam786/main/assets/hero-dark.svg">
-  <img src="https://raw.githubusercontent.com/saswatsam786/saswatsam786/main/assets/hero-light.svg" width="100%" alt="Saswat Samal. Software engineer in Bengaluru, India. I build AI agents, backends and cloud infrastructure that hold up in production. Open to remote roles worldwide. Now at Aina, building the AI voice agent. Open source: Lima, Jaeger, NVIDIA Dynamo.">
+  <img src="https://raw.githubusercontent.com/saswatsam786/saswatsam786/main/assets/hero-light.svg" width="100%" alt="Saswat Samal. Software engineer in Bengaluru, India. I build AI agents, backends and cloud infrastructure that hold up in production. Open to collaborations. Now at Aina, building the AI voice agent. Open source: Lima, Jaeger, NVIDIA Dynamo.">
 </picture>
 
 <p align="center">
